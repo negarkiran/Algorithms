@@ -1,3 +1,5 @@
+package com.coding.challenge.dp;
+
 public class DijkstraShortestPath {
 	
 	static final int V=9;
