@@ -1,5 +1,3 @@
-package com.algo.arrays;
-
 import java.util.Arrays;
 
 public class RotateArray {
